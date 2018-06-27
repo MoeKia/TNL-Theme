@@ -1,0 +1,28 @@
+header{
+	width:100%;
+	background:#FFFFFF;
+	box-shadow: 2px 1px 5px #CCCCCC;
+	position:fixed;
+	top:0;
+}
+.head-bar{
+	height:55px;
+	line-height:55px;
+}
+.head-title{
+	font-size:19px;
+	font-weight:bold;
+	color:#898989;
+}
+.head-menu{
+	color:#898989;
+}
+.menulist{
+	color:#898989;
+	margin:10px 0px;
+	font-size:17px;
+    display: flex;
+}
+.menulist li{
+	margin:5px;
+}
